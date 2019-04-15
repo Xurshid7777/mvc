@@ -1,0 +1,17 @@
+img {
+	width: 100%;
+}
+
+.task-item {
+	box-shadow: 0 0 5px #cccccc;
+}
+
+.form-control-file {
+	border: 1px solid #ced4da;
+	border-radius: .25rem;
+	padding: .375rem .75rem;
+}
+
+#image-thumb img {
+	height: 240px;
+}
