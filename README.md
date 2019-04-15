@@ -6,7 +6,7 @@ Model-View-Controller
 
  function __construct()
     {
-        // TODO : вынисти в конфигурацию !!!
+        //вынисти в конфигурацию !!!
         $host='127.0.0.1:3306'; //host base
         $dbname="beelab"; //basses name
         $user="root";  //user base
